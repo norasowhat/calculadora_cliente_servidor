@@ -1,0 +1,58 @@
+[
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "A",
+        "expresion": "7.0 / 1.0",
+        "resultado": 7.0
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "B",
+        "expresion": "8.0 - 3.0",
+        "resultado": 5.0
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "C",
+        "expresion": "9.2 + 0.8",
+        "resultado": 10.0
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "C",
+        "expresion": "9.0 / 5.0",
+        "resultado": 1.8
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "B",
+        "expresion": "5.0 - 5.0",
+        "resultado": 0.0
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "A",
+        "expresion": "8.0 * 6.0",
+        "resultado": 48.0
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "A",
+        "expresion": "8.0 * 6.0",
+        "resultado": 48.0
+    },
+    {
+        "tipo": "respuesta",
+        "id_servidor": "1",
+        "origen": "A",
+        "expresion": "9.0 / 4.0",
+        "resultado": 2.25
+    }
+]
