@@ -1,0 +1,38 @@
+[
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "C",
+            "expresion": "8.0 * 3.0",
+            "resultado": 24.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "C",
+            "expresion": "8.0 * 3.0",
+            "resultado": 24.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "B",
+            "expresion": "5.0 * 2.0",
+            "resultado": 10.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "5.0 * 2.0",
+            "resultado": 10.0
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "peticion": {
+            "tipo": "peticion",
+            "id_cliente": "D",
+            "num1": 5.0,
+            "num2": 3.0,
+            "op": "-"
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "D",
+            "expresion": "5.0 - 3.0",
+            "resultado": 2.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "D",
+            "expresion": "5.0 - 3.0",
+            "resultado": 2.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "A",
+            "expresion": "7.0 * 2.0",
+            "resultado": 14.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "A",
+            "expresion": "7.0 * 2.0",
+            "resultado": 14.0
+        }
+    },
+    {
+        "peticion": {
+            "tipo": "peticion",
+            "id_cliente": "D",
+            "num1": 5.0,
+            "num2": 2.0,
+            "op": "+"
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "D",
+            "expresion": "5.0 + 2.0",
+            "resultado": 7.0
+        }
+    }
+]

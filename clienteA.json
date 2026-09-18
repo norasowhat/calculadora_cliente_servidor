@@ -1,0 +1,344 @@
+[
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "A",
+            "expresion": "7.0 * 2.0",
+            "resultado": 14.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "A",
+            "expresion": "7.0 * 2.0",
+            "resultado": 14.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "B",
+            "expresion": "9.0 * 6.0",
+            "resultado": 54.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "9.0 * 6.0",
+            "resultado": 54.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "8.0 / 9.0",
+            "resultado": 0.8888888888888888
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "B",
+            "expresion": "8.0 / 9.0",
+            "resultado": 0.8888888888888888
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "C",
+            "expresion": "6.0 * 2.0",
+            "resultado": 12.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "C",
+            "expresion": "6.0 * 3.0",
+            "resultado": 18.0
+        }
+    },
+    {
+        "peticion": {
+            "tipo": "peticion",
+            "id_cliente": "A",
+            "num1": 9.0,
+            "num2": 6.0,
+            "op": "/"
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "A",
+            "expresion": "9.0 / 6.0",
+            "resultado": 1.5
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "A",
+            "expresion": "9.0 / 6.0",
+            "resultado": 1.5
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "A",
+            "expresion": "9.0 / 6.0",
+            "resultado": 1.5
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "B",
+            "expresion": "9.0 / 6.0",
+            "resultado": 1.5
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "9.0 / 6.0",
+            "resultado": 1.5
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "B",
+            "expresion": "9.0 / 6.0",
+            "resultado": 1.5
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "8.0 * 5.0",
+            "resultado": 40.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "B",
+            "expresion": "8.0 * 5.0",
+            "resultado": 40.0
+        }
+    },
+    {
+        "peticion": {
+            "tipo": "peticion",
+            "id_cliente": "A",
+            "num1": 6.0,
+            "num2": 2.0,
+            "op": "*"
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "A",
+            "expresion": "6.0 * 2.0",
+            "resultado": 12.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "A",
+            "expresion": "6.0 * 2.0",
+            "resultado": 12.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "B",
+            "expresion": "88.0 / 9.0",
+            "resultado": 9.777777777777779
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "B",
+            "expresion": "88.0 / 9.0",
+            "resultado": 9.777777777777779
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "88.0 / 9.0",
+            "resultado": 9.777777777777779
+        }
+    },
+    {
+        "peticion": {
+            "tipo": "peticion",
+            "id_cliente": "A",
+            "num1": 8.0,
+            "num2": 3.0,
+            "op": "-"
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "A",
+            "expresion": "8.0 - 3.0",
+            "resultado": 5.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "A",
+            "expresion": "8.0 - 3.0",
+            "resultado": 5.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "A",
+            "expresion": "8.0 - 3.0",
+            "resultado": 5.0
+        }
+    },
+    {
+        "peticion": {
+            "tipo": "peticion",
+            "id_cliente": "A",
+            "num1": 7.0,
+            "num2": 9.0,
+            "op": "/"
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "A",
+            "expresion": "7.0 / 9.0",
+            "resultado": 0.7777777777777778
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "A",
+            "expresion": "7.0 / 9.0",
+            "resultado": 0.7777777777777778
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "A",
+            "expresion": "7.0 / 9.0",
+            "resultado": 0.7777777777777778
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "1",
+            "origen": "C",
+            "expresion": "8.0 * 2.0",
+            "resultado": 16.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "C",
+            "expresion": "8.0 * 2.0",
+            "resultado": 16.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "C",
+            "expresion": "8.0 * 2.0",
+            "resultado": 16.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "C",
+            "expresion": "8.0 - 3.0",
+            "resultado": 5.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "C",
+            "expresion": "8.0 - 3.0",
+            "resultado": 5.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "2",
+            "origen": "B",
+            "expresion": "6.0 / 2.0",
+            "resultado": 3.0
+        }
+    },
+    {
+        "resultado": {
+            "tipo": "respuesta",
+            "id_servidor": "3",
+            "origen": "B",
+            "expresion": "6.0 / 2.0",
+            "resultado": 3.0
+        }
+    }
+]
